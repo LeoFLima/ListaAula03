@@ -36,7 +36,7 @@
             setJMenuBar(barraMenu);
             setVisible( true );
     }
-
+  Testando GIT
     public static void main(String[] args){
         Exercicio01 umaJanela = new Exercicio01();
         umaJanela.setBounds(50,100,400,150);
